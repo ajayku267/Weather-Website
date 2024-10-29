@@ -1,10 +1,3 @@
-/**
- * @license MIT
- * @fileoverview All api related stuff like api_key, api request etc.
- * @copyright codewithsadee 2023 All rights reserved
- * @author codewithsadee <mohammadsadee24@gmail.com>
- */
-
 "use strict";
 
 const api_key = "12c0b43c2db31314d1f41cebadf88cb6";
